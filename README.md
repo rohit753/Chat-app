@@ -1,2 +1,2 @@
 # Chat-app
-Chat app using Socket-io
+Chat app using Socket-io(in the making)
